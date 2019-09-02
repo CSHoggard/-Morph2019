@@ -1,7 +1,7 @@
 # -Morph2019
 
-## Morph2019 Workshop (Sendai, Japan)
-## Date: 13th September 2019
+## Morph2019 Workshop (Date: 13th September 2019) in Sendai (Japan)
+## Instructor: Dr. Christian Steven Hoggard
 
 This repository holds all materials used throughout the Morph2019 workshop on Geometric Morphometrics and Archaeology (13th September 2019).
 
