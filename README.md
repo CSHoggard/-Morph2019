@@ -1,5 +1,3 @@
-# -Morph2019
-
 ## Morph2019 Workshop (Date: 13th September 2019) in Sendai (Japan)
 ### Instructor: Dr. Christian Steven Hoggard
 
