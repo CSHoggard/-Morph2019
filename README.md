@@ -12,7 +12,7 @@ This workshop is designed to provide an introduction into the application and po
 
 Through two practicals, one landmark-based and one outline-based, this workshop details the complete workflow from data acquisition to subsequent analysis and interpretation. While a high degree of technical knowledge is necessary, an incredible amount of analytical possibility can be harnessed through the adoption of two- and three-dimensional GMM methodologies.
 
-Software: All data input, manipulation and analyses will be **performed in the R Environment through geomorph and Momocs**. **Please ensure R/RStudio and all files are downloaded onto your computer/laptop before or at the beginning of the workshop**. Run the **Setup.R** file in R/RStudio to ensure all packages are downloaded.  Other digitisation methods including tpsDig2 (https://life.bio.sunysb.edu/morph/soft-dataacq.html) and GUImorph (https://github.com/GUImorph/GUImorph) will also be showcased.
+Software: All data input, manipulation and analyses will be **performed in the R Environment through geomorph and Momocs**. **_Please ensure R/RStudio and all files are downloaded onto your computer/laptop before or at the beginning of the workshop_**. Run the **Setup.R** file in R/RStudio to ensure all packages are downloaded.  Other digitisation methods including tpsDig2 (https://life.bio.sunysb.edu/morph/soft-dataacq.html) and GUImorph (https://github.com/GUImorph/GUImorph) will also be showcased.
 
 
 #### Practical One (Landmark Analysis: Generalised Procrustes Analysis)
