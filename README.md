@@ -8,7 +8,7 @@ This repository holds all materials used throughout the Morph2019 workshop on *G
 
 #### About the workshop
 
-This workshop is designed to provide an introduction into the application and potential of geometric morphometric (GMM) methodologists for archaeologists, researchers and enthusiasts. The workshop first introduces participants to the mathematic underpinnings of statistical shape and form, before detailing the fundamentals of geometric morphometrics, emphasising its statistical power and converage in comparison to traditional morphometrics.
+This workshop is designed to provide an introduction into the application and potential of geometric morphometric (GMM) methodologists for archaeologists, researchers and enthusiasts. The workshop first introduces participants to the mathematical underpinnings of statistical shape and form, before detailing the fundamentals of geometric morphometrics, emphasising its statistical power and converage in comparison to traditional morphometrics.
 
 Through two practicals, one landmark-based and one outline-based, this workshop details the complete workflow from data acquisition to subsequent analysis and interpretation. While a high degree of technical knowledge is necessary, an incredible amount of analytical possibility can be harnessed through the adoption of two- and three-dimensional GMM methodologies.
 
