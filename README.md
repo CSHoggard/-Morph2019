@@ -2,7 +2,7 @@
 ### Instructor: Dr. Christian Steven Hoggard
 
 
-This repository holds all materials used throughout the Morph2019 workshop on *Geometric Morphometrics and Archaeology*. This includes the presentation used throughout the workshop and all material associated with the workshop.
+This repository holds all materials used throughout the Morph2019 workshop on *Geometric Morphometrics and Archaeology*. This includes the presentation used throughout the workshop and all material associated with the workshop.  
 
 
 #### About the workshop
