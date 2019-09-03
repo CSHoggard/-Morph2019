@@ -14,12 +14,12 @@ Through two practicals, one landmark-based and one outline-based, this workshop 
 Software: All data input, manipulation and analyses will be performed in the R Environment through geomorph and Momocs. Please ensure R/RStudio is downloaded onto your computer/laptop before the workshop. Other digitisation will also be showcased.
 
 
-#### Practical One (XXXX)
+#### Practical One (Landmark Analysis: Generalised Procrustes Analysis)
 
 XXXX
 
 
-#### Practical Two (Hoggard et al. 2019)
+#### Practical Two (Outline Analysis: Elliptic Fourier Analysis)
 
 This is a modified R script from **The Application of Elliptic Fourier Analysis in Understanding Biface Shape and Symmetry Through the British Acheulean** in the *Journal of Palaeolithic Archaeology* (https://doi.org/10.1007/s41982-019-00024-6). Three files are required for this practical: 1) the script (**practical_two.r**), 2) the outline data created in the TpsSuite (**practical_two.tps**), and 3) the metadata in .csv format (**practical_two.csv**).
 
