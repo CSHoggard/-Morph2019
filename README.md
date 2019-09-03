@@ -1,6 +1,7 @@
 ## Morph2019 Workshop (Date: 13th September 2019) in Sendai (Japan)
 ### Instructor: Dr. Christian Steven Hoggard
 
+
 This repository holds all materials used throughout the Morph2019 workshop on *Geometric Morphometrics and Archaeology*. This includes the presentation used throughout the workshop and all material associated with the workshop.
 
 
@@ -12,14 +13,42 @@ Through two practicals, one landmark-based and one outline-based, this workshop 
 
 Software: All data input, manipulation and analyses will be performed in the R Environment through geomorph and Momocs. Please ensure R/RStudio is downloaded onto your computer/laptop before the workshop. Other digitisation will also be showcased.
 
+
 #### Practical One (XXXX)
 
 XXXX
+
 
 #### Practical Two (Hoggard et al. 2019)
 
 This is a modified R script from **The Application of Elliptic Fourier Analysis in Understanding Biface Shape and Symmetry Through the British Acheulean** in the *Journal of Palaeolithic Archaeology* (https://doi.org/10.1007/s41982-019-00024-6). Three files are required for this practical: 1) the script (**practical_two.r**), 2) the outline data created in the TpsSuite (**practical_two.tps**), and 3) the metadata in .csv format (**practical_two.csv**).
 
 For any queries please contact C.S.Hoggard@soton.ac.uk 
+
+
+#### Suggested Reading
+
+Adams, D.C. and Otárola-Castillo, E. (2013). Geomorph: an r package for the collection and analysis of geometric morphometric shape data. *Methods of Ecology and Evolution* 4, 393-399. 
+
+Adams, D.C., Rohlf, F.J. and Slice, D.E. (2004). Geometric morphometrics: ten years of progress following the ‘revolution’. *Italian Journal of Zoology*, 71, 5–16. 
+
+Bonhomme, V., Picq, S., Gaucherel, C., and Claude, J. (2014). Momocs: Outline analysis using R. *Journal of
+Statistical Software*, 56, 1–24.
+
+Bookstein, F.L. (1991). *Morphometric Tools for Landmark Data: Geometry and Biology*. New York: Cambridge University Press. 
+
+Kovarovic, K., Aiello, L. C., Cardini, A. and Lockwood, C. A. (2011). Discriminant function analyses in
+archaeology: Are classification rates too good to be true? *Journal of Archaeological Science*, 38(11),
+3006–3018.
+
+MacLeod, N. (1999). Generalizing and extending the Eigenshape method of shape space visualization and
+analysis. *Paleobiology*, 25 (1), 107–138.
+
+Slice, D.E. (2007). Geometric Morphometrics, *Annual Review of Anthropology* 36(1), 261–281.  
+
+Yoshioka, Y. (2004). Analysis of petal shape variation of Primula sieboldii by elliptic fourier descriptors and
+principal component analysis. *Annals of Botany*, 94(5), 657–664.
+
+Zelditch, M.L., Swiderski D.L., Sheets H.D. and Fink, W.L. (2004). *Geometric morphometrics for biologists: a primer*. San Diego (CA): Elsevier Academic Press.
 
 
