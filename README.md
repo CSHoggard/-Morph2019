@@ -17,7 +17,7 @@ Software: All data input, manipulation and analyses will be **performed in the R
 
 #### Practical One (Landmark Analysis: Generalised Procrustes Analysis)
 
-XXXX
+Using a sample cranial dataset this practical will explore some of the features used through geomorph, including digitisation, the GPA procedure, and the analysis of Procrustes coordinates.
 
 
 #### Practical Two (Outline Analysis: Elliptic Fourier Analysis)
