@@ -14,6 +14,8 @@ Through two practicals, one landmark-based and one outline-based, this workshop 
 
 Software: All data input, manipulation and analyses will be **performed in the R Environment through geomorph (BETA version) and Momocs**. **_Please ensure R/RStudio and all files are downloaded onto your computer/laptop before or at the beginning of the workshop_**. Run the **Setup.R** file in R/RStudio to ensure all packages are downloaded.  Other digitisation methods including tpsDig2 (https://life.bio.sunysb.edu/morph/soft-dataacq.html) and GUImorph (https://github.com/GUImorph/GUImorph) will also be showcased.
 
+Alternatively, all workshop activities can also be performed in a RStudio.cloud web-browser (https://rstudio.cloud/project/513978). For first-time R users, this format is suggested.
+
 
 #### Practical One (Landmark Analysis: Generalised Procrustes Analysis)
 
